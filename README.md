@@ -4,7 +4,7 @@
 
 DowryLink is a platform to connect parties, on agreed terms, who want to exchange dowry.
 
-DowryLink intends to integrate a datafeed authenticating user data (<a href="https://blog.chain.link/digital-identity-on-the-blockchain/">such as shown here, to automate dowry and wedding contracts.
+DowryLink intends to integrate a datafeed authenticating user data (<a href="https://blog.chain.link/digital-identity-on-the-blockchain/">such as shown here</a>, to automate dowry and wedding contracts.
 
 # Specs
 
