@@ -8,6 +8,6 @@ DowryLink intends to integrate a datafeed authenticating user data (<a href="htt
 
 # Specs
 
-- Deployed Chainlink Contract: 0xF1c9bfBAa7b9961AF1F361BcEae893e9Ad26d181 (reads ETH/USD) for use in deploying ETH assets within a DowryLink Contract.
+- Deployed Chainlink Contract: 0x1942408Ca6745876cCaa4Aa5EB814fb880Ac6D67 (reads ETH/USD) for use in deploying ETH assets within a DowryLink Contract.
 - DowryLink uses Moralis and Avalanche to improve production time to market
 - Utilized Ethereum Boilerplate from Moralis for app.dowrylink.com (<a href="https://github.com/DowryLink/ethereum-boilerplate">https://github.com/DowryLink/ethereum-boilerplate</a>) hosted on an AWS Amplify Instance, running on the gh-pages branch.
